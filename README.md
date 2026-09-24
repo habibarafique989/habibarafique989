@@ -1,37 +1,38 @@
 # Hi there, I'm Habiba Rafiq 👋
 
-🎓 **Master’s Student in International Management** at Hochschule Fulda, Germany <br>
-💼 **Digital Marketing & Analytics Specialist** focused on SEO/GEO initiatives, data visualization, and global marketing communications.
+🎓 **Master’s Student in International Management** at Hochschule Fulda, Germany[cite: 2]  
+💼 **Omnichannel Retail & PMO Support Specialist** focused on cross-departmental coordination, data-driven marketing, and structured reporting[cite: 2].
 
 ---
 
 ### 💻 Tech & Skills Overview
 
-**Digital Marketing & SEO** <br>
-`On-Page SEO` `Keyword Research` `Content Governance` `Google Analytics` `Domain Management`
+**Project & PMO Support** <br>
+`Cross-Departmental Coordination` `Task Structuring & Documentation` `Benchmarking & Best Practice Research`[cite: 2]
 
-**Data Analytics & Visualization** <br>
-`Power BI` `Advanced Excel` `KPI Dashboards` `Benchmarking & Reporting`
+**Retail & Store Operations** <br>
+`Point-of-Sale (POS)` `Inventory Handling & Stock Rotation` `In-Person Sales` `Store Operations`[cite: 2]
 
-**Design & Creative Tools** <br>
-`Figma` `Canva` `Adobe Photoshop` `Illustrator` `InDesign`
+**Data Analytics & Reporting** <br>
+`Power BI` `Excel (KPI Modeling & Reporting)` `Market & Financial Analysis`[cite: 2]
 
-**Collaboration & Enterprise Tools** <br>
-`Microsoft 365 (SharePoint, Teams, OneNote)` `SAP Business Suite (Connex IAM)`
+**Design & Enterprise Tools** <br>
+`Advanced PowerPoint` `Canva` `Adobe Creative Suite (Photoshop)` `Google Sheets`[cite: 2]
+
+**Content & Communication** <br>
+`Newsletter Design` `Social Media Management (LinkedIn, Instagram)` `Benchmarking & Reporting`[cite: 2]
 
 **Languages** <br>
-`English (C1)` `German (B1)` `Urdu (Native)`
+`English (C1)` `German (B2)` `Urdu (Native)`[cite: 2]
 
 ---
 
 ### 📈 Featured Projects
 
-* **SEO & Digital Content Strategy (Hochschule Fulda)**  
-  Designed a content governance framework featuring SEO best practices, publication workflows, and dynamic Power BI dashboards to analyze search intent and increase visibility.
-* **Brand Campaign & Visual Activation**  
-  Created multi-channel campaign architectures, tone-of-voice frameworks, and visual assets across digital channels aligned with core brand guidelines.
-* **Automated Campaign Tracking Systems**  
-  Engineered automated tracking reports combining Excel and Power BI, saving up to 10 hours in manual reporting while maintaining 99% data precision.
+* **AURA: Skincare Ad Campaign Strategy & AI Creative Direction**  
+  Built an end-to-end go-to-market campaign for a skincare brand serum launch utilizing the 4 Ps, complete with projected performance modeling (CTR, conversion) and an A/B test plan[cite: 2].
+* **Macros 101: Business Concept & Market Positioning Analysis**  
+  Conducted comprehensive market/competitor benchmarking (SWOT/PESTEL) and unified customer segmentation and financial planning into a strategic go-to-market strategy[cite: 2].
 
 ---
 
@@ -42,10 +43,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 -->
+
 ---
 
 ### 📫 Connect with Me
 
-* **Email:** [habibarafique989@gmail.com](mailto:habibarafique989@gmail.com)
-* **Location:** Germany 🇩🇪
-* **LinkedIn:** [(https://www.linkedin.com/in/habiba-rafiq/)](https://linkedin.com)
+* **Email:** [habibarafique989@gmail.com](mailto:habibarafique989@gmail.com)[cite: 2]
+* **Location:** Fulda, Germany 🇩🇪[cite: 2]
+* **LinkedIn:** [habiba-rafiq](https://www.linkedin.com/in/habiba-rafiq/)
+
+* **Email:** [habibarafique989@gmail.com](mailto:habibarafique989@gmail.com)[cite: 2]
+* **Location:** Fulda, Germany 🇩🇪[cite: 2]
+* **LinkedIn:** [habiba-rafiq](https://www.linkedin.com/in/habiba-rafiq/)
