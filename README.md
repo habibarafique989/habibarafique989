@@ -1,6 +1,6 @@
 # Hi there, I'm Habiba Rafiq 👋
 
-🎓 **Master’s Student in International Management** at Hochschule Fulda, Germany
+🎓 **Master’s Student in International Management** at Hochschule Fulda, Germany <br>
 💼 **Digital Marketing & Analytics Specialist** focused on SEO/GEO initiatives, data visualization, and global marketing communications.
 
 ---
