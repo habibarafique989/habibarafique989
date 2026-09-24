@@ -7,19 +7,19 @@
 
 ### 💻 Tech & Skills Overview
 
-**Digital Marketing & SEO**
+**Digital Marketing & SEO** <br>
 `On-Page SEO` `Keyword Research` `Content Governance` `Google Analytics` `Domain Management`
 
-**Data Analytics & Visualization**
+**Data Analytics & Visualization** <br>
 `Power BI` `Advanced Excel` `KPI Dashboards` `Benchmarking & Reporting`
 
-**Design & Creative Tools**
+**Design & Creative Tools** <br>
 `Figma` `Canva` `Adobe Photoshop` `Illustrator` `InDesign`
 
-**Collaboration & Enterprise Tools**
+**Collaboration & Enterprise Tools** <br>
 `Microsoft 365 (SharePoint, Teams, OneNote)` `SAP Business Suite (Connex IAM)`
 
-**Languages**
+**Languages** <br>
 `English (C1)` `German (B1)` `Urdu (Native)`
 
 ---
@@ -35,17 +35,17 @@
 
 ---
 
-### 📊 GitHub Stats & Badges
+<!-- ### 📊 GitHub Stats & Badges
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Habiba's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
-
+-->
 ---
 
 ### 📫 Connect with Me
 
 * **Email:** [habibarafique989@gmail.com](mailto:habibarafique989@gmail.com)
 * **Location:** Germany 🇩🇪
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com) *(Update with your direct URL)*
+* **LinkedIn:** [(https://www.linkedin.com/in/habiba-rafiq/)](https://linkedin.com)
