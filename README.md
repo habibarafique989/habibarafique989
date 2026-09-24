@@ -33,6 +33,8 @@
   Built an end-to-end go-to-market campaign for a skincare brand serum launch utilizing the 4 Ps, complete with projected performance modeling (CTR, conversion) and an A/B test plan.
 * **Macros 101: Business Concept & Market Positioning Analysis**  
   Conducted comprehensive market/competitor benchmarking (SWOT/PESTEL) and unified customer segmentation and financial planning into a strategic go-to-market strategy.
+* **AdventureWorks Power BI Executive Dashboard**  
+  Engineered a multi-page interactive analytics report with custom DAX measures (YoY sales growth, profit margins, moving averages) to analyze regional sales, customer profitability, and product line performance.
 
 ---
 
