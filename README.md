@@ -1,37 +1,37 @@
 # Hi there, I'm Habiba Rafiq 👋
 
-🎓 **Master’s Student in International Management** at Hochschule Fulda, Germany[cite: 1]  
-💼 **Digital Marketing & Analytics Specialist** focused on SEO/GEO initiatives, data visualization, and global marketing communications[cite: 1].
+🎓 **Master’s Student in International Management** at Hochschule Fulda, Germany
+💼 **Digital Marketing & Analytics Specialist** focused on SEO/GEO initiatives, data visualization, and global marketing communications.
 
 ---
 
 ### 💻 Tech & Skills Overview
 
 **Digital Marketing & SEO**
-`On-Page SEO` `Keyword Research` `Content Governance` `Google Analytics` `Domain Management`[cite: 1]
+`On-Page SEO` `Keyword Research` `Content Governance` `Google Analytics` `Domain Management`
 
 **Data Analytics & Visualization**
-`Power BI` `Advanced Excel` `KPI Dashboards` `Benchmarking & Reporting`[cite: 1]
+`Power BI` `Advanced Excel` `KPI Dashboards` `Benchmarking & Reporting`
 
 **Design & Creative Tools**
-`Figma` `Canva` `Adobe Photoshop` `Illustrator` `InDesign`[cite: 1]
+`Figma` `Canva` `Adobe Photoshop` `Illustrator` `InDesign`
 
 **Collaboration & Enterprise Tools**
-`Microsoft 365 (SharePoint, Teams, OneNote)` `SAP Business Suite (Connex IAM)`[cite: 1]
+`Microsoft 365 (SharePoint, Teams, OneNote)` `SAP Business Suite (Connex IAM)`
 
 **Languages**
-`English (C1)` `German (B1)` `Urdu (Native)`[cite: 1]
+`English (C1)` `German (B1)` `Urdu (Native)`
 
 ---
 
 ### 📈 Featured Projects
 
 * **SEO & Digital Content Strategy (Hochschule Fulda)**  
-  Designed a content governance framework featuring SEO best practices, publication workflows, and dynamic Power BI dashboards to analyze search intent and increase visibility[cite: 1].
+  Designed a content governance framework featuring SEO best practices, publication workflows, and dynamic Power BI dashboards to analyze search intent and increase visibility.
 * **Brand Campaign & Visual Activation**  
-  Created multi-channel campaign architectures, tone-of-voice frameworks, and visual assets across digital channels aligned with core brand guidelines[cite: 1].
+  Created multi-channel campaign architectures, tone-of-voice frameworks, and visual assets across digital channels aligned with core brand guidelines.
 * **Automated Campaign Tracking Systems**  
-  Engineered automated tracking reports combining Excel and Power BI, saving up to 10 hours in manual reporting while maintaining 99% data precision[cite: 1].
+  Engineered automated tracking reports combining Excel and Power BI, saving up to 10 hours in manual reporting while maintaining 99% data precision.
 
 ---
 
@@ -46,6 +46,6 @@
 
 ### 📫 Connect with Me
 
-* **Email:** [habibarafique989@gmail.com](mailto:habibarafique989@gmail.com)[cite: 1]
-* **Location:** Germany 🇩🇪[cite: 1]
+* **Email:** [habibarafique989@gmail.com](mailto:habibarafique989@gmail.com)
+* **Location:** Germany 🇩🇪
 * **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com) *(Update with your direct URL)*
